@@ -1,0 +1,15 @@
+.div1{
+  align-items: center;
+  width: 20%;
+  margin-top:  10%;
+  margin-left: 37%;
+  background-color:aliceblue;
+  padding: 2%;
+}
+input{
+    width: 95%;
+    padding: 8px;
+    border: 1px solid #ccc;
+  
+}
+
